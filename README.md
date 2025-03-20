@@ -1,5 +1,6 @@
 # Práctica SQL, ETL & DataWarehouse
 ### Bootcamp Big Data, Machine Learning &amp; IA_Keepcoding
+___
 
 Este repositorio contiene la resolución de una práctica avanzada de **SQL** y **Data Warehousing (DW)**. A lo largo de trece ejercicios, se abordan tareas clave relacionadas con el modelado de datos, creación de tablas y cálculos avanzados.
 
